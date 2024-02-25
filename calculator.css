@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#cal{
+    padding: 1rem;
+    margin-top:5rem;
+    margin-left: 20rem;
+    height: 25rem;
+    width: 25rem;
+    border: 5px solid black;
+    border-radius: 1rem;
+    background-color: rgba(255, 68, 0, 0.783);
+}
+#cal input{
+    width: 18rem;
+    height: 4rem;
+    font-size: 2rem;
+}
+div button{
+    height: 4rem;
+    width: 6rem;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    background-color: peachpuff;
+}
+#name{
+    margin-left: 21rem;
+    margin-top: -2.7rem;
+
+}
